@@ -1,0 +1,18 @@
+donations :
+ 
+litecoin : Lgd18C2PoufuVa3HXS1gGwFJQadzHBTZtG
+bitcoin 1 : bc1q9hcjggydhzl3rstmyz9245zw7any0xn60appg6
+bitcoin 2 : Zpub6yLeM9ndEKZEZna8kw9gdFgFAs3LJJXw6VbKbWgwNP5v3ZwCjXQ6jJrxqChbRxcDvRzFSBc2YxMrxxCefCM3UAKRQvFur4aCEQKgBkzvMM2
+ETHEREUM NETWORK : 0xD646F3A61B5Bd5Af3fC6276F3fc3021583a69183
+tether : 0xD646F3A61B5Bd5Af3fC6276F3fc3021583a69183 
+xrp : rKUvcPtmbotwyJHRQW42kAamCv6WAmCmBk
+bnp : 0xD646F3A61B5Bd5Af3fC6276F3fc3021583a69183
+solana : 5xvvYQN7vpnc9FcsLA2h8HK8jHCqbgSTqxmBuj7DsVq9
+usdc : 0xD646F3A61B5Bd5Af3fC6276F3fc3021583a69183
+dogecoin : DBxp9vUctWSkt9mAJ9Js6RMGv8p4CxSeLF
+cardano : addr1qxz7hk05txhff4mdz22rjxk34kn6yw3qatccg8h2ke3z3wy9a0vlgkdwjntk6y558yddrtd85gazp6h3ss0w4dnz9zuqz7pdaa
+tron : TDTHLTcMSknwqmtYAjeKP12RagzmeVm4y7
+avalanche : 0xD646F3A61B5Bd5Af3fC6276F3fc3021583a69183
+polkadot : 13rTZmGD6DkKgQG3mqocTeZYbZUKQv2sdLJ6cnsUnVwgKfuT
+cosmos : cosmos1e8kf6jquv773hsq8gpmkuq39q2wnrhxz3sjce7
+polygon : 0xD646F3A61B5Bd5Af3fC6276F3fc3021583a69183
